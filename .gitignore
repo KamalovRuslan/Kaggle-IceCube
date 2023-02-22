@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+data/
+dynedge_pretrained_batch_1_to_50/
+kaggle/
+logs/
+*.csv
